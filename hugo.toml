@@ -1,7 +1,9 @@
 baseURL = "https://alikemalsahin.github.io/mydevopspage/"
 languageCode = "tr"
 title = "Ali Kemal Şahin | DevOps & MLOps Engineer"
-theme = ""
+
+# No theme - using custom layouts directly
+# theme = ""
 
 [params]
   author = "Ali Kemal Şahin"
