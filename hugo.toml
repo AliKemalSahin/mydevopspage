@@ -1,0 +1,15 @@
+baseURL = "https://alikemalsahin.github.io/mydevopspage/"
+languageCode = "tr"
+title = "Ali Kemal Şahin | DevOps & MLOps Engineer"
+theme = ""
+
+[params]
+  author = "Ali Kemal Şahin"
+  description = "Expert DevOps Engineer | Cloud & Infrastructure Specialist"
+  location = "İstanbul, Türkiye"
+  company = "Boyner Büyük Mağazacılık A.Ş."
+  
+[params.social]
+  github = "https://github.com/AliKemalSahin"
+  linkedin = "https://www.linkedin.com/in/alikemalsahin/"
+  email = "alikemalsahin@outlook.com"
